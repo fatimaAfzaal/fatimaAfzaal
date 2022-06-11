@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fatima afzaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatima-afzaal-2169b7230" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fatima afzaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" src="www.linkedin.com/in/fatima-afzaal-2169b7230" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18244357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18244357" height="30" width="40" /></a>
 <a href="https://fb.com/fatima afzaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fatimaAfzaal29" height="30" width="40" /></a>
 <a href="https://instagram.com/_fatima_afzaal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_fatima_afzaal_" height="30" width="40" /></a>
