@@ -2,7 +2,6 @@
 <h3 align="center">A passionate developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimaafzaal&label=Profile%20views&color=0e75b6&style=flat" alt="fatimaafzaal" /> </p>
-<img  align="right"  alt="Coding"  width="400" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611b41712e5a4e0be4cc7105f5a9048d1c29dafb809&rid=giphy.gif&ct=g">
 
 
 - 🔭 I’m currently working on **Data science and android development**
