@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fatimaafzaal&label=Profile%20views&color=0e75b6&style=flat" alt="fatimaafzaal" /> </p>
 
 
-- 🔭 I’m currently working on **Data science and android development**
+- 🔭 I’m currently working on **Data science, machine learning and android development**
 
-- 🌱 I’m currently learning **Data science**
+- 🌱 I’m currently learning **Machine learning**
 
-- 💬 Ask me about **Data science**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **fatimaafzaal2002@gmail.com**
 
